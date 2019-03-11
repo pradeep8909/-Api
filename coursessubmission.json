@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "courseId": 1,
+    "name": "mughal-e-azam",
+    "content": "Iss exercise mein aapne yeh sab karna hai.",
+    "hint": "Hello! ek bhi nahi hai!!!!",
+    "description": "nahi hai ."
+  },
+  {
+    "id": 2,
+    "courseId": "1",
+    "exerciseId": "4",
+    "content": "LeardwsdhweiuewewiuSS  naya",
+    "username": "sadbwdwifdsfsed09ferw0oge."
+  },
+  {
+    "id": 3,
+    "courseId": "1",
+    "exerciseId": "4",
+    "content": "LeardwsdhweiuewewiuSS  naya",
+    "username": "sadbwdwifdsfsed09ferw0oge."
+  },
+  {
+    "id": 4,
+    "courseId": "1",
+    "exerciseId": "4",
+    "content": "LeardwsdhweiuewewiuSS  naya",
+    "username": "sadbwdwifdsfsed09ferw0oge."
+  }
+]
